@@ -1,0 +1,15 @@
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\bin\Debug\net6.0\Guía1FuncionesMatemáticas.exe
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\bin\Debug\net6.0\Guía1FuncionesMatemáticas.deps.json
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\bin\Debug\net6.0\Guía1FuncionesMatemáticas.runtimeconfig.json
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\bin\Debug\net6.0\Guía1FuncionesMatemáticas.dll
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\bin\Debug\net6.0\Guía1FuncionesMatemáticas.pdb
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.csproj.AssemblyReference.cache
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.GeneratedMSBuildEditorConfig.editorconfig
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.AssemblyInfoInputs.cache
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.AssemblyInfo.cs
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.csproj.CoreCompileInputs.cache
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.dll
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\refint\Guía1FuncionesMatemáticas.dll
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.pdb
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\Guía1FuncionesMatemáticas.genruntimeconfig.cache
+E:\ronni\Documents\GitHub\GuiasProgra\Guía1FuncionesMatemáticas\Guía1FuncionesMatemáticas\obj\Debug\net6.0\ref\Guía1FuncionesMatemáticas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Guía1FuncionesMatemáticas/1.0.0": {
+        "runtime": {
+          "Guía1FuncionesMatemáticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guía1FuncionesMatemáticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
